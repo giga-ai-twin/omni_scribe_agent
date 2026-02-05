@@ -1,5 +1,7 @@
 # 🤖 Agentic Omni Scriber
 
+![Banner](assets/banner.png)
+
 **Hybrid Multi-lingual Meeting Transcription System**  
 *Specialized for Mandarin, English, and Taiwanese Hokkien code-switching environments.*
 

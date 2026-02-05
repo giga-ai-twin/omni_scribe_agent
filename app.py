@@ -94,7 +94,7 @@ if hf_token:
     st.title("🤖 Agentic Omni Scriber")
     st.markdown("### Hybrid Multi-lingual Meeting Transcription System")
 
-    tab_upload, tab_record = st.tabs(["📂 Upload Audio", "🎙️ Record Audio"])
+    tab_record, tab_upload = st.tabs(["🎙️ Record Audio", "📂 Upload Audio"])
 
     audio_source = None
     
