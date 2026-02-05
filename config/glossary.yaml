@@ -1,0 +1,28 @@
+# glossary.yaml 範例
+semiconductor:
+  "蛋糕盒": "晶圓盒 (Wafer Box)"
+  "cake box": "晶圓盒 (Wafer Box)"
+  "Cake Box": "晶圓盒 (Wafer Box)"
+  "FOUP": "前開式晶圓傳送盒"
+  "大餅": "12 吋晶圓"
+  "小餅": "8 吋晶圓"
+  "良率": "Yield Rate"
+  "報廢": "Scrap"
+  "光罩": "掩模 (Photomask)"
+  "光罩版": "掩模版 (Mask Plate)"
+  "光罩版架": "掩模版架 (Mask Plate Frame)"
+  "光罩版盒": "掩模版盒 (Mask Plate Box)"
+  "光罩清洗": "掩模清洗 (Photomask Cleaning)"
+  "晶圓清洗": "晶圓清洗 (Wafer Cleaning)"
+  "晶圓製程": "晶圓製造流程 (Wafer Fabrication Process)"
+  "製程": "製造流程 (Process)"
+  "製程卡": "製程控制卡 (Process Control Card)"
+
+general_tech:
+  "扣": "Code"
+  "康範": "Confirm"
+  "下班": "Off-work"
+  "來造": "Off-work"
+  "信可": "Sync"
+  "嗨賴": "Highlight"
+  "哩洗咧烤": "What are you bitching about?"

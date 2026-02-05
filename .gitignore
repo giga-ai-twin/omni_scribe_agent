@@ -1,0 +1,26 @@
+# Environment variables (CRITICAL: Do not commit API keys)
+.env
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit specific
+.streamlit/
+
+# Temporary and Output files
+temp_audio.wav
+*.log
+output/
+data/samples/
+
+# Debug scripts (optional, exclude if you don't want to track them)
+debug_pyannote.py
+diagnose.py

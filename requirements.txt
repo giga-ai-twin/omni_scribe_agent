@@ -1,0 +1,17 @@
+# Speech Recognition & Processing
+faster-whisper
+pyannote.audio
+torch
+torchaudio
+
+# UI & Config
+streamlit
+pyyaml
+python-dotenv
+
+# LLM
+openai
+google-generativeai
+
+# Utilities
+numpy
