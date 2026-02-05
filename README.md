@@ -48,7 +48,13 @@ In the high-tech and semiconductor industries, daily communication relies heavil
 ## 📺 System Demos
 
 **[🎥 Watch the full Web UI Demo on YouTube](https://youtu.be/qeH4zALTP_o)**
-![Demo_Agentic_Omni_Scribe](https://github.com/user-attachments/assets/593cf9da-77a9-44f7-ac82-c08f395699e0)
+<p align="center">
+  <a href="https://youtu.be/qeH4zALTP_o">
+    <img src="https://github.com/user-attachments/assets/593cf9da-77a9-44f7-ac82-c08f395699e0" alt="Watch the full Web UI Demo on YouTube">
+  </a>
+  <br>
+  <b>[🎥 點擊圖片或此處收看完整的 YouTube 示範影片]</b>
+</p>
 
 ---
 
